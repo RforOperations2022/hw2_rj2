@@ -1,0 +1,13 @@
+name: HW2-Dashboard
+title: HW2-Dashboard
+username:
+account: rj2cmu
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 5698169
+bundleId: 5600978
+url: https://rj2cmu.shinyapps.io/HW2-Dashboard/
+when: 1645428603.95256
+lastSyncTime: 1645428603.95258
+asMultiple: FALSE
+asStatic: FALSE
